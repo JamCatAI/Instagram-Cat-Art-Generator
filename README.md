@@ -1,6 +1,3 @@
-# 📚✨ README.md for **Instagram Cat Art Generator** 🚀🐱🎨
-
----
 # Instagram Cat Art Generator 🐾🎨🚀
 
 JamCatAI presents 🎶 the ultimate **Instagram Cat Art Generator**!  
